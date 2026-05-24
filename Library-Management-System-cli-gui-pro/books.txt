@@ -1,0 +1,20 @@
+Python Programming
+C Programming Language
+Java: The Complete Reference
+Data Structures and Algorithms
+Introduction to Algorithms
+Discrete Mathematics
+Database Management Systems
+Operating System Concepts
+Computer Networks
+Software Engineering
+Object-Oriented Programming
+Clean Code
+The Pragmatic Programmer
+Design Patterns
+Artificial Intelligence
+Machine Learning Basics
+Deep Learning
+Computer Architecture
+Web Development Basics
+Cyber Security Fundamentals
