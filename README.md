@@ -1,4 +1,4 @@
-# 🚀 Saloni Projects
+# 🚀 python-projects-collection
 
 <div align="center">
 
